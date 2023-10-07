@@ -13,31 +13,45 @@ export default function App() {
       </p>
 
       <div>
-        {" "}
         <a
           href="https://liaisonit.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
-          Task App{" "}
-        </a>{" "}
+          Task App
+        </a>
+        <a
+          href="https://github.com/vishalsoni7/liaisonit.git"
+          target="_blank"
+          rel="noreferrer"
+        >
+          GitHub
+        </a>
+
         <a
           href="https://documenter.getpostman.com/view/25125631/2s9YJgSzin"
           target="_blank"
           rel="noreferrer"
         >
           Postman
-        </a>{" "}
+        </a>
+        <a
+          href="https://replit.com/@vishalsoni7/liaisonIT"
+          target="_blank"
+          rel="noreferrer"
+        >
+          ReplIt
+        </a>
         <a
           href="https://www.linkedin.com/in/vishal-soni-b21a4a1b8"
           target="_blank"
           rel="noreferrer"
         >
           LinkedIn
-        </a>{" "}
+        </a>
         <a href="https://vishalsoni.netlify.app/" rel="noreferrer">
           Me
-        </a>{" "}
+        </a>
       </div>
     </div>
   );
